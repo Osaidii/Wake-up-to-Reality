@@ -1,4 +1,4 @@
-# Dose-of-Reality
+# Wake-up-to-Reality
 This is a small website that was made to showcase my Quotes API and so I actually complete my goal of finding amazing quotes and sharing them with poeple.  
 ![Image](https://cdn.hackclub.com/019e63ff-d596-723e-bcdd-114bdaeaec41/screenshot_2026-05-26_1.10.56_pm.png)
 This website is Open Source and you can modify, edit, copy and basically do everything with it except selling it.  
